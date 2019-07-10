@@ -1,8 +1,8 @@
 # Mongo Scraper
 
-The Mongo Scraper is a web app that lets users view and leave comments on the latest news. Instead of writing articles, the app scrapes the web for the latest articles. 
+The Mongo Scraper is a web app that lets users view and leave comments on the latest news. Instead of writing articles, the app scrapes the web for the latest articles.
 
-![Demo of Mongo Scraper App](demo.gif)
+![Demo of Mongo Scraper App](public/assets/images/demo.gif)
 
 ## Languages/Technologies
 
@@ -18,7 +18,7 @@ The Mongo Scraper is a web app that lets users view and leave comments on the la
 
 ## Demo the App
 
-- [Mongo Scraper App](https://aaron-google-books-search.herokuapp.com/)
+- [Mongo Scraper App](https://aaron-mongo-scraper.herokuapp.com/)
 
 ## Author
 
